@@ -14,6 +14,8 @@
 - :woman_technologist: At the moment I am studying SQL, Postman, API
 - &#128195; I have experience writing test cases, bug reports, checklists, testing reports
 - 💬 Languages: Russian (native), English
+- Work experience: 
+  Test Rail, Jira, Postman, Selenium IDE, PyCharm, MySQL
 
 ### Contacts:
  <div id="badges">
